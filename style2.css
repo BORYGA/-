@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+    background-color:rgb(229, 255, 0) ;
+}
+h2{
+    color:indigo;
+    text-align: center;
+}
+.hahahahaha{
+    text-align: center;
+}
+.manecraft{
+    width: 350px; height: 250px;
+  border: 5px solid green
+}
+p{
+     font-family:cursive;
+    color: rgb(89, 0, 190);
+}
+.manecraft1{
+    width: 300px; height: 250px;
+  border: 5px solid green
+}
+nav{
+    border: 5px solid rgb(17, 0, 255);
+}
